@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    border: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+.record {
+    text-align: center;
+    margin-top: 80px;
+}
+
+p {
+    text-align: center;
+}
+
+.linha {
+    display: flex;
+    justify-content: center;
+}
+
+.pontos-a {
+    float: left;
+    margin-left: 300px;
+}
+
+.bloco-a {
+    width: 60px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    background-color: green;
+    border: 1px solid darkgreen;
+    margin: 10px;
+}
+
+.pontos-b {
+    float: right;
+    margin-right: 300px;
+}
+
+.bloco-b {
+    width: 60px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    background-color: red;
+    border: 1px solid darkgreen;
+    margin: 10px;
+}
+
+.btn {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid black; 
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;  
+}
+
+.bloco-apagado {
+    width: 60px;
+    height: 60px;
+    color: transparent;
+    text-align: center;
+    background-color: transparent;
+    margin: 10px;
+}
