@@ -1,5 +1,5 @@
 # Click Game
-Exercise developed during the first module of the UPskill course.
+Exercise focused mainly on JavaScript developed during the first module of the UPskill course.
 
 ## Rules
 - If the number is on the opponent's board, the player gets that number of points and the corresponding block is eliminated from the opponent's board
